@@ -8,3 +8,5 @@ schema after the data was made available in AWS Athena to extract the data
 through SQL queries. AWS Glue also served to upload the tracked and processed
 data to the Redshift cluster. Apache Airflow was used to orchestrate and automate
 this entire process that was previously manual.
+
+Data source: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?resource=download
