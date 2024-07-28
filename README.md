@@ -10,7 +10,7 @@ Diagrama da arquitetura na nuvem AWS:
 
 Fonte: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?resource=download
 
-Todo o projeto foi desenvolvido do zero absoluto, então toda a infraestrura foi criada até a disponibilização dos relatórios e visualizações
+Todo o projeto foi desenvolvido do zero absoluto, então toda a infraestrutura foi criada até a disponibilização dos relatórios e visualizações
 para o usuário final, com a automação usando o Airflow o processo ficou automática e a atualização em tempo real.
 
 <div align="center">
