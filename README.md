@@ -5,7 +5,7 @@ Construí e automatizei um pipeline ETL usando o AWS Glue para carregar dados do
 
 Diagrama da arquitetura na nuvem AWS:
 <div align="center">
-  <img src="https://github.com/CamilaDeAlm/Customer-Churn-Analysis-through-a-Data-Pipeline-using-Airflow-AWS-Glue-S3-Redshift-and-Power-BI/blob/main/Captura%20de%20tela%202024-07-28%20101638.png" alt="Exemplo" width="largura" height="altura">
+  <img src="https://github.com/CamilaDeAlm/Customer-Churn-Analysis-through-a-Data-Pipeline-using-Airflow-AWS-Glue-S3-Redshift-and-Power-BI/blob/main/folder/Captura%20de%20tela%202024-07-28%20101638.png" alt="Exemplo" width="largura" height="altura">
 </div>
 
 Fonte: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?resource=download
