@@ -14,7 +14,7 @@ Todo o projeto foi desenvolvido do zero absoluto, então toda a infraestrutura f
 para o usuário final, com a automação usando o Airflow o processo ficou automática e a atualização em tempo real.
 
 <div align="center">
-  <img src="https://github.com/CamilaDeAlm/Customer-Churn-Analysis-through-a-Data-Pipeline-using-Airflow-AWS-Glue-S3-Redshift-and-Power-BI/blob/main/Captura%20de%20tela%202024-07-28%20102109.png" alt="Exemplo" width="largura" height="altura">
+  <img src="https://github.com/CamilaDeAlm/Customer-Churn-Analysis-through-a-Data-Pipeline-using-Airflow-AWS-Glue-S3-Redshift-and-Power-BI/blob/main/folder/Captura%20de%20tela%202024-07-28%20102109.png" alt="Exemplo" width="largura" height="altura">
 </div>
 
 FIM.
